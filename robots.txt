@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ze6l8f.juragan89c.site/sitemap.xml
